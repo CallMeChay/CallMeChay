@@ -25,7 +25,9 @@
 - <i>with Javascript, Typescript, React and 69 others.</i>
 - 🔭 The CityBoi, die for work😼
 
-- 🛸 Into High Energy Physics and Astrophysics, i love shotting stars too.
+- 🛸 I've recently completed <a href="https://coursera.org/share/b8709fe113bbc82aae93f6b7cbae4427"> React Native Thinking Advanced Course and Development 
+
+- 🎓 I'm studying Software Development at Hoa Sen University, Sài Gòn. I'm expecting to graduate in 2022.
 
 - I do fullstack and much of every thing :heart:
 
