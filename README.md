@@ -20,24 +20,15 @@
   <h3> I'm 22 years old Self-taught developer from Việt Nam.</h3>
 </p>
 
-- 🤟🏻 Learning Graphql
+- 🤟🏻 Learning Graphql, Animation React-Native ...
 
-- <i>with Javascript, Typescript, React and 69 others.</i>
+- <i> Javascript, Typescript, React, React-Native </i>
+
 - 🔭 The CityBoi, die for work😼
-
-- 🛸 I've recently completed <a href="https://coursera.org/share/b8709fe113bbc82aae93f6b7cbae4427"> React Native Thinking Advanced Course and Development 
-
+ 
+- 🛸 I've recently completed <a href="https://edu.200lab.io/khoa-hoc/khoa-hoc-react-native-food-delivery"> React Native Thinking Advanced Course and Development 
+   
 - 🎓 I'm studying Software Development at Hoa Sen University, Sài Gòn. I'm expecting to graduate in 2022.
-
-- I do fullstack and much of every thing :heart:
-
-- All About living life at its best.
-
- <p align="center">
-  <h4>  | Typescript |  </h4>
-   </p>
-
-<!--  -->
 
 <p align="center" >
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
