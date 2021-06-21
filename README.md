@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Call Me Chảy | 💻 Full Stack Developer | 🛸 ViệtNam , SàiGon 🇻🇳 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Call Me Chảy | 💻 Developer | 🛸 ViệtNam , SàiGon 🇻🇳 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 
  <h5 align="center">
@@ -17,7 +17,7 @@
 <br />
 <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
 <p align="center">
-  <h3> I'm 22 years old Self-taught Developer from ViệtNam.</h3>
+  <h3> I'm 22 years old Self-taught developer from Việt Nam.</h3>
 </p>
 
 - 🤟🏻 Learning Graphql
