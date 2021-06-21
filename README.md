@@ -88,6 +88,6 @@
 
 ## 🚀 My Projects:
 <p align="center">
-<img src="https://media.giphy.com/media/Q59SaNn2vX1Sb8XIrf/giphy.gif" width="30"> <img>
+<img src="https://media.giphy.com/media/Q59SaNn2vX1Sb8XIrf/giphy.gif" width="300"> <img>
 <p>&nbsp;</p>
 
