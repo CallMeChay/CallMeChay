@@ -93,14 +93,6 @@
   </a>
 </p>
 -->
-
-### - Podcast ⚡️
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/streaming/podcast.svg"> 
-</p>
-
-
 ## ☎️ Contact Me:
 <p align="center">
 <a href = "mailto:phuc13689@gmail.com"><img src='https://img.icons8.com/color/48/000000/gmail.png' alt='gmail' height='40'></a>
