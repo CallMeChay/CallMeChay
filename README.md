@@ -5,11 +5,6 @@
    <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
 </div>
 
-<p align='center'>
-   <a href="https://www.instagram.com/01.thanggg12/"><img height="30" src="ins.png"> </a>&nbsp;&nbsp;
-
- </p>
-
 <div align="center">
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Call Me Chảy | 💻 Full Stack Developer | 🛸 ViệtNam , SàiGon 🇻🇳 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
