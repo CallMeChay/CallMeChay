@@ -26,8 +26,7 @@
 
 - 🔭 The CityBoi, die for work😼
  
-- 🛸 I've recently completed <a href="https://edu.200lab.io/khoa-hoc/khoa-hoc-react-native-food-delivery"> </a> React Native Thinking Advanced Course and Development 
-   
+- 🛸 I've recently completed <a href="https://edu.200lab.io/khoa-hoc/khoa-hoc-react-native-food-delivery">React Native Thinking Advanced Course and Development</a>
 - 🎓 I'm studying Software Development at Hoa Sen University, Sài Gòn. I'm expecting to graduate in 2022.
 
 <p align="center" >
