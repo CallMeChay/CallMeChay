@@ -22,7 +22,7 @@
 
 - 🤟🏻 Learning Graphql, Animation React-Native ...
 
-- <i> Javascript, Typescript, React, React-Native </i>
+- <i>📚 Javascript, Typescript, React, React-Native </i>
 
 - 🔭 The CityBoi, die for work😼
  
