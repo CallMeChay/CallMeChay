@@ -85,3 +85,11 @@
 
 <p>&nbsp;</p>
 
+
+## 🚀 My Projects:
+<p align="center">
+<a href = "https://media.giphy.com/media/Q59SaNn2vX1Sb8XIrf/giphy.gif"><img src='https://img.icons8.com/color/48/000000/gmail.png' alt='gmail' height='40'></a>
+alt='instagram' height='40'></a>
+
+<p>&nbsp;</p>
+
